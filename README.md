@@ -3,6 +3,8 @@
 ## Descripción
 Bienvenido a TallerApp, un proyecto diseñado para facilitar la gestión de herramientas en talleres. Con TallerApp, puedes realizar pedidos de forma rápida y eficiente, visualizar el stock de herramientas disponible, y mejorar la productividad en tu taller.
 
+**Nota: Esta es una versión en desarrollo antes de la entrega. No es la versión de producción utilizada en entornos de trabajo.**
+
 ## Funcionalidades Principales
 
 ### Sistema de Login 🔐
@@ -42,4 +44,3 @@ TallerApp se construyó utilizando las siguientes tecnologías:
 Te invitamos a utilizar TallerApp para mejorar la gestión de herramientas en tu taller. Si encuentras algún problema o tienes sugerencias de mejora, no dudes en contribuir al proyecto.
 
 Esperamos que TallerApp sea una herramienta útil para optimizar la productividad en talleres y simplificar la gestión de herramientas. ¡Gracias por tu interés en nuestro proyecto!
-
